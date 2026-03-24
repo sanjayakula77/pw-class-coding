@@ -1,0 +1,1 @@
+This repository contains 20 c++ programs written by me while learning programming.These programs helped me understand the basics of coding and logic building.
